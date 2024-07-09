@@ -44,8 +44,8 @@ const ProductsEach = () => {
             <p className="my-3 text-sm">
               A ball dress with sparking lace placement on short tulle skirt{" "}
             </p>
-            <div>
-              <div className="hidden text-[#FFAC33] my-3 ">
+            <div className="flex justify-between gap-8 items-center ">
+              <div className="hidden text-[#FFAC33] my-3 lg:flex ">
                 <MdStarRate />
                 <MdStarRate />
                 <MdStarRate />
